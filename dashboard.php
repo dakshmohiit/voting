@@ -5,6 +5,7 @@ header("location: index.html");
 }
 $userdata = $_SESSION['userdata'];
 $groupsdata = $_SESSION['groupsdata'];
+$hghg = "kldfjgkjnj";
 
 ?>
 
